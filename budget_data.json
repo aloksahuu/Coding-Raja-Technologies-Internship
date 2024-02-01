@@ -1,0 +1,9 @@
+{
+  "income": 100000.0,
+  "expenses": [
+    {
+      "category": "food",
+      "amount": 5000.0
+    }
+  ]
+}
